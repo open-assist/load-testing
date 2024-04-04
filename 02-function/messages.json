@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Which theaters in Mountain View show Barbie movie?"
+  },
+  {
+    "role": "user",
+    "content": "Can we recommend some comedy movies on show in Mountain View?"
+  }
+]
